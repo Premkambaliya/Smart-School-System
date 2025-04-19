@@ -16,12 +16,12 @@ int main() {
 
     // Teacher
     Teacher t;
-    t.setTeacherDetails("Mr. Sharma", 40, "Physics");
+    t.setTeacherDetails("Mr. Neel Patel", 40, "Frontend");
     t.showTeacherDetails();
 
     // Admin
     Admin a;
-    a.setAdminDetails("Mrs. Kapoor", 45, "Math", "Head Admin");
+    a.setAdminDetails("Mrs. Akruti Patel", 45, "Cpp", "Head Admin");
     a.showAdminDetails();
 
     // Subjects

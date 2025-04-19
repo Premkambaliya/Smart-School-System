@@ -12,13 +12,13 @@ public:
 class MathSubject : public Subject {
 public:
     void show() {
-        cout << "Math Subject: Algebra, Geometry\n";
+        cout << "Full Stack: Frontend, Backend\n";
     }
 };
 
 class ScienceSubject : public Subject {
 public:
     void show() {
-        cout << "Science Subject: Physics, Chemistry\n";
+        cout << "Cpp : STL, Oops\n";
     }
 };
